@@ -7,7 +7,7 @@ Master’s in MIS/ML program, University of Arizona
 
 ---
 
-### 🎯 Objective
+### Objective
 To create **static dashboard reports** that summarize KPIs for Iowa liquor sales using the `Smaller_Iowa_Liquor_Sales.csv` dataset.  
 The goal is to help a fictional distillery decide which alcohol products to prioritize for maximizing sales and which to avoid due to poor performance.  
 
@@ -52,12 +52,11 @@ Each dashboard presents **two graphics side by side** with captions to provide a
 ---
 
 ### Repo Structure
-```
 
+```
 data-analysis-visualization-assignment-5/
 ├── .gitignore
-├── Dataset/
-│   └── Smaller_Iowa_Liquor_Sales.csv
+├── Dataset/                 # <- Empty folder, dataset must be added manually
 ├── README.md
 ├── notebooks/
 │   ├── Negative_Dashboard.png
@@ -81,7 +80,6 @@ To run the analysis:
 ```
 Dataset/Smaller_Iowa_Liquor_Sales.csv
 ```
-
 
 3. Open and run the Jupyter notebook `Week_6_Graded_Assessment_5.ipynb` to regenerate the dashboards.
 
